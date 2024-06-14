@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\P_inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A14DA4F-CBDB-4566-B62A-CE4DFF1AC6CD}|P_inventario\\P_inventario.csproj|c:\\users\\user\\source\\repos\\p_inventario\\p_inventario\\models\\senainventariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A14DA4F-CBDB-4566-B62A-CE4DFF1AC6CD}|P_inventario\\P_inventario.csproj|solutionrelative:p_inventario\\models\\senainventariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A14DA4F-CBDB-4566-B62A-CE4DFF1AC6CD}|P_inventario\\P_inventario.csproj|c:\\users\\user\\source\\repos\\p_inventario\\p_inventario\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A14DA4F-CBDB-4566-B62A-CE4DFF1AC6CD}|P_inventario\\P_inventario.csproj|solutionrelative:p_inventario\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\P_inventario\\P_inventario\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "P_inventario\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\P_inventario\\P_inventario\\MainWindow.xaml",
+              "RelativeToolTip": "P_inventario\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T18:52:59.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SenaInventarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\P_inventario\\P_inventario\\Models\\SenaInventarioContext.cs",
+              "RelativeDocumentMoniker": "P_inventario\\Models\\SenaInventarioContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\P_inventario\\P_inventario\\Models\\SenaInventarioContext.cs",
+              "RelativeToolTip": "P_inventario\\Models\\SenaInventarioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:45:59.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
